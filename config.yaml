@@ -5,8 +5,8 @@ settings:
   daysInHistogram: 30 # number of days you want to display in histogram
   collectResponseTimes: false # experimental feature, enable only for <5 monitors or on paid plans
 
-  allmonitorsOperational: '✔ Всичко работи'
-  notAllmonitorsOperational: '✘ Не всичко работи'
+  allmonitorsOperational: '✔ Всичко работи.'
+  notAllmonitorsOperational: '✘ Не всичко работи.'
   monitorLabelOperational: '✔ Работи'
   monitorLabelNotOperational: '✘ Не работи'
   monitorLabelNoData: 'Няма данни'
