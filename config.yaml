@@ -42,3 +42,45 @@ monitors:
     url: 'https://chat.chitanka.info'
     method: GET
     expectStatus: 200
+
+  - id: prevodi-chitanka-info
+    name: prevodi.chitanka.info
+    description: 'Дачко'
+    url: 'https://prevodi.chitanka.info'
+    method: GET
+    expectStatus: 200
+
+  - id: rechnik-chitanka-info
+    name: rechnik.chitanka.info
+    description: 'Речник'
+    url: 'https://rechnik.chitanka.info'
+    method: GET
+    expectStatus: 200
+
+  - id: rbe-chitanka-info
+    name: rbe.chitanka.info
+    description: 'Версия на РБЕ'
+    url: 'https://rbe.chitanka.info'
+    method: GET
+    expectStatus: 200
+
+  - id: gramofonche-chitanka-info
+    name: gramofonche.chitanka.info
+    description: 'Грамофонче'
+    url: 'https://gramofonche.chitanka.info'
+    method: GET
+    expectStatus: 200
+
+  - id: smehurko-chitanka-info
+    name: smehurko.chitanka.info
+    description: 'Смехурко'
+    url: 'https://smehurko.chitanka.info'
+    method: GET
+    expectStatus: 200
+
+  - id: tools-chitanka-info
+    name: tools.chitanka.info
+    description: 'Работни инструменти'
+    url: 'https://tools.chitanka.info'
+    method: GET
+    expectStatus: 200
