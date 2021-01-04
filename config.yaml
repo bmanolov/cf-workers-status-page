@@ -84,3 +84,45 @@ monitors:
     url: 'https://tools.chitanka.info'
     method: GET
     expectStatus: 200
+
+  - id: planet-chitanka-info
+    name: planet.chitanka.info
+    description: 'Събирателно място за читателски блогове'
+    url: 'https://planet.chitanka.info'
+    method: GET
+    expectStatus: 200
+
+  - id: api-chitanka-info
+    name: api.chitanka.info
+    description: 'API за обновяване на огледалата'
+    url: 'https://api.chitanka.info'
+    method: GET
+    expectStatus: 200
+
+  - id: assets-chitanka-info
+    name: assets.chitanka.info
+    description: 'Статични файлове на библиотеката'
+    url: 'https://assets.chitanka.info'
+    method: GET
+    expectStatus: 200
+
+  - id: download-chitanka-info
+    name: download.chitanka.info
+    description: 'Файлове за сваляне'
+    url: 'https://download.chitanka.info'
+    method: GET
+    expectStatus: 200
+
+  - id: puk-chitanka-info
+    name: puk.chitanka.info
+    description: 'Копие на проекта ПУК!'
+    url: 'https://puk.chitanka.info'
+    method: GET
+    expectStatus: 200
+
+  - id: wiki-chitanka-info
+    name: wiki.chitanka.info
+    description: 'Старото уики'
+    url: 'https://wiki.chitanka.info'
+    method: GET
+    expectStatus: 200
