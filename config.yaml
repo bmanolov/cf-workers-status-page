@@ -126,3 +126,10 @@ monitors:
     url: 'https://wiki.chitanka.info/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0'
     method: GET
     expectStatus: 200
+
+  - id: m3-chitanka-info
+    name: m3.chitanka.info
+    description: 'Огледало'
+    url: 'https://m3.chitanka.info'
+    method: GET
+    expectStatus: 200
