@@ -3,7 +3,7 @@ settings:
   url: 'https://status.chitanka.info' # used for Slack messages
   logo: logo.120px.png # image in ./public/ folder
   daysInHistogram: 90 # number of days you want to display in histogram
-  collectResponseTimes: false # experimental feature, enable only for <5 monitors or on paid plans
+  collectResponseTimes: true # collects avg response times from CRON locations
 
   allmonitorsOperational: '✔ Всичко работи.'
   notAllmonitorsOperational: '✘ Не всичко работи.'
