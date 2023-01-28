@@ -134,9 +134,9 @@ monitors:
     method: GET
     expectStatus: 200
 
-  - id: m3-chitanka-info
-    name: m3.chitanka.info
+  - id: m4-chitanka-info
+    name: m4.chitanka.info
     description: 'Огледало'
-    url: 'https://m3.chitanka.info'
+    url: 'https://m4.chitanka.info'
     method: GET
     expectStatus: 200
