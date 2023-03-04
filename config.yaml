@@ -106,6 +106,13 @@ monitors:
     method: GET
     expectStatus: 200
 
+  - id: assets2-chitanka-info
+    name: assets2.chitanka.info
+    description: 'Статични файлове на библиотеката'
+    url: 'https://assets2.chitanka.info'
+    method: GET
+    expectStatus: 200
+
   - id: download-chitanka-info
     name: download.chitanka.info
     description: 'Файлове за сваляне'
