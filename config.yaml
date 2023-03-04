@@ -147,3 +147,10 @@ monitors:
     url: 'https://m2.chitanka.info'
     method: GET
     expectStatus: 200
+
+  - id: sk-chitanka-info
+    name: sk.chitanka.info
+    description: 'Копие на сайта Стари книги; без файловете'
+    url: 'https://sk.chitanka.info'
+    method: GET
+    expectStatus: 200
