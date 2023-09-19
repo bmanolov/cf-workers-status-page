@@ -21,6 +21,7 @@ monitors:
     url: 'https://chitanka.info'
     method: GET
     expectStatus: 200
+    linkable: true # allows the title to be a link, default=true
 
   - id: biblioman-chitanka-info
     name: biblioman.chitanka.info
